@@ -1,0 +1,119 @@
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.exe
+C:\Users\Admin\Desktop\Navidad\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Navidad\API_SOAP\obj\Debug\netcoreapp3.0\staticwebassets\API_SOAP.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Navidad\API_SOAP\obj\Debug\netcoreapp3.0\staticwebassets\API_SOAP.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Navidad\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Navidad\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Navidad\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.deps.json
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.runtimeconfig.json
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.pdb
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Validation.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\SoapCore.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\System.Private.ServiceModel.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\System.ServiceModel.Http.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Navidad\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.csproj.CopyComplete
+C:\Users\Admin\Desktop\Navidad\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.dll
+C:\Users\Admin\Desktop\Navidad\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.pdb
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.exe
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.deps.json
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.runtimeconfig.json
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.pdb
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Validation.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\SoapCore.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\System.Private.ServiceModel.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\System.ServiceModel.Http.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\obj\Debug\netcoreapp3.0\staticwebassets\API_SOAP.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\obj\Debug\netcoreapp3.0\staticwebassets\API_SOAP.StaticWebAssets.xml
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.AssemblyInfo.cs
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.csproj.CopyComplete
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.dll
+C:\Users\Admin\Desktop\API REST and SOAP\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.pdb
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.exe
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.deps.json
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.runtimeconfig.json
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.runtimeconfig.dev.json
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\API_SOAP.pdb
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Validation.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\SoapCore.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\System.Private.ServiceModel.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\System.ServiceModel.Http.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.csprojAssemblyReference.cache
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\obj\Debug\netcoreapp3.0\staticwebassets\API_SOAP.StaticWebAssets.Manifest.cache
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\obj\Debug\netcoreapp3.0\staticwebassets\API_SOAP.StaticWebAssets.xml
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.AssemblyInfoInputs.cache
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.AssemblyInfo.cs
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.RazorTargetAssemblyInfo.cache
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.csproj.CopyComplete
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.dll
+C:\Users\Daniela\Desktop\APIs-RESTful-and-SOAP-master\API_SOAP\obj\Debug\netcoreapp3.0\API_SOAP.pdb
